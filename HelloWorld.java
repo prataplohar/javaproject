@@ -2,6 +2,6 @@ import java.io.*;
 class HelloWorld{  
     public static void main(String args[])
 	{  
-     System.out.println(".....***** HelloWorld & Welcome to the Jenkins Training *****.......#####");  
+     System.out.println(".....***** Trying webhook *****.......#####");  
     }  
 } 
